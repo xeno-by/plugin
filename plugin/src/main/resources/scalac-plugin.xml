@@ -1,0 +1,4 @@
+<plugin>
+  <name>plugin</name>
+  <classname>by.xeno.Plugin</classname>
+</plugin>
